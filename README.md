@@ -2,7 +2,7 @@
 
 **How to reverse engineer Objective-C methods (class or instance method).**
 
-We use **FRIDA** for dynamic analysis & **IDA** for static analysis.
+We use **FRIDA** for dynamic analysis & **IDA PRO** for static analysis.
 
 FRIDA
 How to reverse a method? \n
@@ -15,6 +15,8 @@ print out the arguments
 print out the return value
 "Add code here"
 
-IDA 
+IDA Pro
  Extracting the dyld shared cashes library from the iOS frameware
  After getting the dyld you should Extracting the .dylip file where the method leave.
+
+ After we have the dylip file, we are ready to throw it to IDA Pro 
