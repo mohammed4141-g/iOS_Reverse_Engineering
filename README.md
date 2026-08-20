@@ -5,8 +5,8 @@
 We use **FRIDA** for dynamic analysis & **IDA** for static analysis.
 
 
-How to reverse a method?
-frist you need to attach FRIDA to a targeted process 
+How to reverse a method? \n
+frist you need to attach FRIDA to a targeted process \n
 "Add code here"
 Get the targeted method address
 "Add code here"
