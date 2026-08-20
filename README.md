@@ -4,6 +4,8 @@
 
 We use **FRIDA** for dynamic analysis & **IDA PRO** for static analysis.
 
+we will use simple program as example "link to the Mach-O executable".
+
 FRIDA
 How to reverse a method? \n
 First you need to attach FRIDA to a targeted process \n
