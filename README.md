@@ -4,9 +4,9 @@
 
 We use **FRIDA** for dynamic analysis & **IDA** for static analysis.
 
-
+FRIDA
 How to reverse a method? \n
-frist you need to attach FRIDA to a targeted process \n
+First you need to attach FRIDA to a targeted process \n
 "Add code here"
 Get the targeted method address
 "Add code here"
@@ -15,3 +15,6 @@ print out the arguments
 print out the return value
 "Add code here"
 
+IDA 
+ Extracting the dyld shared cashes library from the iOS frameware
+ After getting the dyld you should Extracting the .dylip file where the method leave.
