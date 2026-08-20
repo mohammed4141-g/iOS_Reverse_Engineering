@@ -1,6 +1,6 @@
 # iOS_Reverse_Engineering
 
-**How to reverse engineer Objective-C methods (class or instance method).**
+**How to reverse engineer Objective-C/Swift methods (class or instance method).**
 
 We use **FRIDA** for dynamic analysis & **IDA PRO** for static analysis.
 
