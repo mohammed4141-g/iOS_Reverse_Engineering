@@ -20,3 +20,6 @@ IDA Pro
  After getting the dyld you should Extracting the .dylip file where the method leave.
 
  After we have the dylip file, we are ready to throw it to IDA Pro 
+
+
+ Binary diffing with IDA Pro
