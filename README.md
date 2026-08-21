@@ -25,3 +25,19 @@ IDA Pro
 
 
  Binary diffing with IDA Pro
+
+
+<h3>⚡ Quick Commands</h3>
+
+<pre><code>
+# iOS Reverse Engineering
+frida -U -f com.example.app
+
+# VRadar Scanner
+python scanner.py --target 192.168.1.1
+</code></pre>
+
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" height="40"/> 
+  Hey! Nice to see you.
+</h1>
